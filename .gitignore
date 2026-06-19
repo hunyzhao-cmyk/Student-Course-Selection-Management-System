@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# Build logs
+*.tlog
+*.log
+*.recipe
+
+# Precompiled Headers
+*.pch
+*.gch
+
+# Compiled files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.res
+*.iobj
+*.ipdb
+
+# NuGet
+packages/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
